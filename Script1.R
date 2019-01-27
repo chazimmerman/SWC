@@ -1,1 +1,3 @@
-my_data <- c(2,4,6,4)
+Numbers<-c(1:20)
+Roll1d20<-sample((Numbers), 1)
+print(Roll1d20)
